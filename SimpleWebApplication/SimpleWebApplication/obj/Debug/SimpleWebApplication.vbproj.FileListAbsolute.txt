@@ -1,0 +1,8 @@
+U:\SimpleWebApplication\SimpleWebApplication\bin\SimpleWebApplication.dll
+U:\SimpleWebApplication\SimpleWebApplication\bin\SimpleWebApplication.pdb
+U:\SimpleWebApplication\SimpleWebApplication\bin\SimpleWebApplication.xml
+U:\SimpleWebApplication\SimpleWebApplication\obj\Debug\SimpleWebApplication.Resources.resources
+U:\SimpleWebApplication\SimpleWebApplication\obj\Debug\SimpleWebApplication.vbproj.GenerateResource.Cache
+U:\SimpleWebApplication\SimpleWebApplication\obj\Debug\SimpleWebApplication.dll
+U:\SimpleWebApplication\SimpleWebApplication\obj\Debug\SimpleWebApplication.xml
+U:\SimpleWebApplication\SimpleWebApplication\obj\Debug\SimpleWebApplication.pdb
